@@ -3,7 +3,7 @@
 Desenvolvimento da <em>**API REST**</em> no **padrão MVC** que retorna informações das entidades de um estúdio de tatuagem e efetua todas as operações **CRUD**: ``tatuador``, ``cliente``, ``agendamento``, ``materiais``.
 
 
-**[Slides da Apresentação](https://drive.google.com/file/d/1iC972UneVB5enoFDt_vQodc0EbTuHmOw/view)**
+
 
 **[ Tecnologias ]**
 
@@ -63,7 +63,7 @@ src/
 
 ```bash
 # Clone o repositório
-$ git clone <https://github.com/IplinskyLeo/tattooApi.git>
+$ git clone https://github.com/Theusduarte123/-API-estudio-de-Tatooh.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd tattooApi
@@ -121,10 +121,4 @@ $ <http://localhost:4000>
 |  **`PUT`** | **/agendamento/id** | Altera os dados do agendamento.
 |  **`DELETE`** | **/agendamento/id** | Remove o agendamento.
 
----
 
-## Squad
-- [Ellen Maria](https://github.com/ellenmariadev/)
-- [Larissa Ferreira](https://github.com/Lari-Ferreira)
-- [Leonardo Iplinsky](https://github.com/IplinskyLeo)
-- [Viniele Lopes](https://github.com/vinielelopes)
